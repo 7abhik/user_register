@@ -1,0 +1,14 @@
+{	
+	"mysqldb":{
+		"host": "localhost",
+		"user": "root",
+		"password": "cmr334",
+		"database": "users_table",
+		"waitForConnections": true,
+		"connectionLimit": 10,
+		"queueLimit": 0,
+		"port": 3306
+	},
+	"port": 4000
+}
+

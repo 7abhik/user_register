@@ -1,0 +1,13 @@
+{	
+	"mysqldb":{
+		"host": "productionHost",
+		"user": "productionUser",
+		"database": "users",
+		"password": "productionPass",
+		"waitForConnections": true,
+		"connectionLimit": 10,
+		"queueLimit": 0,
+		"port": 3306
+	},
+	"port": 4000
+}
